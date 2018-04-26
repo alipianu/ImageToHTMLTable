@@ -1,0 +1,6 @@
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\bin\Debug\ImageToHTMLTable.exe.config
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\bin\Debug\ImageToHTMLTable.exe
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\bin\Debug\ImageToHTMLTable.pdb
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\obj\Debug\ImageToHTMLTable.csproj.CoreCompileInputs.cache
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\obj\Debug\ImageToHTMLTable.exe
+C:\MY_PROJECTS\ImageToHTMLTable\ImageToHTMLTable\obj\Debug\ImageToHTMLTable.pdb
